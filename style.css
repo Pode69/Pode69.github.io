@@ -71,7 +71,7 @@ figure {
 }
 
 #fixed {
-  background-image: url("img/tausta.png");
+  background-image: url("tausta.png");
   height: 600px;
   background-repeat: no-repeat;
   background-attachment: fixed;
